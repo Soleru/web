@@ -1,0 +1,19 @@
+#sidebar-wrapper {
+	padding: 0px;
+	margin-top: 0px;
+	background-color: #394147;
+	opacity: 0.9;
+}
+
+#me {
+	position: absolute;
+ 	top:0;
+ 	right:0;
+}
+
+body {
+	background-image: 
+		url(../Page.png);
+	background-size: cover;
+}
+
